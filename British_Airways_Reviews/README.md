@@ -15,5 +15,4 @@ The final output is five charts, one interactive dashboard, and 6 filters.
 ## Conclusion
 The interactive dashboard, comprising five charts and six filters, serves as a powerful tool for stakeholders to delve into the data dynamically. Users can effortlessly navigate through different dimensions, refine their analysis, and extract meaningful insights.
 ## Appendix
-- View the full project on [Tableau Public](https://public.tableau.com/app/profile/oarisur.rahman/viz/BritishAirwaysReviews_17119832123640/BritishAirwaysReviewsDashboard) or [download](https://github.com/oarisur/tableau-projects/blob/main/British_Airways_Reviews/British%20Airways%20Reviews.twb).
-- Data files: [ba_reviews.csv](https://github.com/oarisur/tableau-projects/blob/main/British_Airways_Reviews/ba_reviews.csv) and [countries.csv](https://github.com/oarisur/tableau-projects/blob/main/British_Airways_Reviews/Countries.csv)
+- View the full project on [Tableau Public](https://public.tableau.com/app/profile/oarisur.rahman/viz/BritishAirwaysReviews_17119832123640/BritishAirwaysReviewsDashboard).
