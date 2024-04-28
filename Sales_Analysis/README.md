@@ -15,5 +15,5 @@ Below is a view of the final output:
 ## Conclusion
 The interactive dashboard, which includes BAN, six charts, a map, and three filters, equips users with the tools to explore data dynamically.
 ## Appendix
-- View the full project on [Tableau Public](https://public.tableau.com/app/profile/oarisur.rahman/viz/SalesAnalysis_17127823492490/SalesDashboard#1) or [download](https://github.com/oarisur/tableau-projects/blob/main/Sales_Analysis/Sales%20Analysis.twb).
+- View the full project on [Tableau Public](https://public.tableau.com/app/profile/oarisur.rahman/viz/SalesAnalysis_17127823492490/SalesDashboard#1).
 
