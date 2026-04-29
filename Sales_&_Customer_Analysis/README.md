@@ -27,7 +27,6 @@ Tableau Desktop
 
 
 
-## Conclusion
-The Tableau dashboards created for sales analysis and customer insights provide a comprehensive view of the company's sales performance and customer behavior. By leveraging interactive visualizations and dynamic filters, stakeholders can gain actionable insights to drive business decisions, increase customer satisfaction, and optimize sales strategies.
+
 ## Appendix
 - View the full project on [Tableau Public](https://public.tableau.com/views/SalesCustomerAnalysis_17142890566960/SalesDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link).
